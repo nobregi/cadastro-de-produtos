@@ -20,3 +20,13 @@ Agora eu vou escrever o código em HTML para testar:
    <body>
   </html>
   ```
+
+
+
+## Ultilidades do arquivo READ.md
+
+*descriçao de seu projeto
+*funcionalidades 
+*como usuarios devem usar
+*onde os usuarios podem  encontrar ajuda sobre o projeto 
+*Autores do projeto
