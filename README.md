@@ -36,4 +36,3 @@ Para excutar o arquivo app.js
 ```
 npm install react
 ```
-...
