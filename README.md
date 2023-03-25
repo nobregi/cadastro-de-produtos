@@ -1,32 +1,38 @@
-#Sistema de Cadastro de Produtos
+Sistema de cadastro de produto
 
->Status do projeto: Em desenvolvimento
+> Status do projeto: Em desenvolvimento
 
 Para rodar esse projeto no seu computador, por favor digite no terminal:
 
-```
-npm install react 
-```
 
-Agora eu vou escrever o código em HTML para testar:
-
+```
+npm install react
+```
 ```
 <!doctype html>
 <html>
- <head>
-      <meta charset"utf-8"/>
-      <title>Sistema</title>
-   </head>
-   <body>
-  </html>
-  ```
+  <head>
+    <metacharset="utf-8"/>
+    <title>Sistema</title>
+  </head>
+ 
+  <body>
+     <p>Olá mundo</p>
+        
+  </body>  
 
+</html>
+```
 
+## Utilidades do arquivo README.md
+* Descrição do seu projeto
+* Funcionalidades
+* Como os usuários devem usar
+* Onde os usuarios podem encontrar ajuda sobre o projeto
+* Autores do projeto
 
-## Ultilidades do arquivo READ.md
+Para excutar o arquivo app.js
 
-*descriçao de seu projeto
-*funcionalidades 
-*como usuarios devem usar
-*onde os usuarios podem  encontrar ajuda sobre o projeto 
-*Autores do projeto
+```
+npm install react
+```
